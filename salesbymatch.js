@@ -1,5 +1,5 @@
 function sockMerchant(n, ar) {
-   let socks={}
+   let socks={};
    let pair=''
    let count=0
    for (var x of ar){
